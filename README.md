@@ -3,7 +3,9 @@
 This repository contains my project management portfolio highlighting experience in project coordination, PMO reporting, and dashboard tracking across government ICT projects.
 
 **Portfolio PDF:** [Muqris_Portfolio.pdf](Muqris_Portfolio.pdf)  
-**Preview:** ![Portfolio Preview](portfolio-preview.png)
+**Preview:** 
+
+![Portfolio Preview](portfolio-preview.png)
 
 **Supporting Artefacts (on separate repositories):**
 - [PMO Dashboard – Power BI](https://github.com/muhammadmuqris14/pmo-dashboard-powerbi)
